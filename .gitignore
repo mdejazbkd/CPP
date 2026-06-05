@@ -1,1 +1,13 @@
 *.exe
+*.slo
+*.lo
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
